@@ -1,3 +1,3 @@
 # ClockView
 
-Стрелочные часы 
+Example application implementing ClockView
